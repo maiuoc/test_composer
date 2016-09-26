@@ -1,0 +1,7 @@
+{
+    "name": "maiuoc/test_composer",
+    "description": "test compser",
+    "type": "library",
+    "license": "mai",
+    "require": {}
+}
